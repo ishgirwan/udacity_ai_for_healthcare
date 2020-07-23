@@ -23,4 +23,5 @@ The [Udaicty's AI for healthcare Nanodegree](https://www.udacity.com/course/ai-f
 * Preprocess data (eliminate “noise”) collected by IMU, PPG, and ECG sensors based on mechanical,  physiology and environmental effects on the signal.       
 * Create an activity classification algorithm using signal processing and machine learning techniques
 * Detect QRS complexes using one-dimensional time series processing techniques
-* Evaluate algorithm performance without ground truth labels• Generate a pulse rate algorithm that combines information from the PPG and IMU sensor streams
+* Evaluate algorithm performance without ground truth labels
+* Generate a pulse rate algorithm that combines information from the PPG and IMU sensor streams
